@@ -90,7 +90,4 @@ Scaling the solution using AWS Lambda and AWS SQS for handling large volumes of 
 ## License
 This project is licensed under the terms of the MIT License.
 
-## Author
 
-### Alina Bazavan
-### Email: sempedia@gmail.com
